@@ -11,6 +11,8 @@ Instagram accounts once you approve. No headless browser, no image API, no credi
 npx skills add social-media-skills/instagram-carousel-skill -g -a claude-code -y
 ```
 
+**Post it from your agent:** the skill posts the carousel to one or many Instagram accounts with WoopSocial, made by the team behind this skill. [Create a free account](https://app.woopsocial.com/signup?utm_source=instagram-carousel-skill&utm_medium=readme&utm_content=top) (2 social accounts, no card) and your agent connects it when the slides are ready.
+
 ![Six example slides rendered by the Instagram carousel skill: a serif cover, a numbered rule, a myth vs fact slide, a recap list, an app screenshot slide and a tweet-style card](skills/instagram-carousel-skill/examples/showcase.png)
 
 *Example output from the two carousels in [`examples/`](skills/instagram-carousel-skill/examples/).
